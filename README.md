@@ -12,7 +12,7 @@ Tools: WordPress, Git, VS Code, Slack<br><br>
 Bachelor's degree in Computer Science<br>
 Courses: High Diploma in Software Engineering (3 years)<br>
 Feel free to reach out if you're interested in collaborating on projects or if you have any question.<br><br>
-**Contact** 📫
+**Contact** 📫<br>
 Email: umairsarfaraz829@gmail.com<br>
 LinkedIn:umairtherealdev<br>
 GitHub: UmairTheRealDev<br>
