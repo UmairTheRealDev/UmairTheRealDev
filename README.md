@@ -1,4 +1,4 @@
-**Hi there!** 👋
+**Hi there!** 👋<br>
 I'm Umair Sarfaraz, a web developer with over 3 years of experience in web development. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
 Skills 🚀
