@@ -7,11 +7,11 @@ Front-end: WordPress, HTML, CSS, React, Nextjs<br>
 Back-end: Node.js<br>
 Frameworks: Laravel, Bootstrap, TailwindCSS<br>
 Databases: MySQL, PostgreSQL<br>
-Tools: WordPress, Git, VS Code, Slack<br>
+Tools: WordPress, Git, VS Code, Slack<br><br>
 **Education** 🎓
 Bachelor's degree in Computer Science<br>
 Courses: High Diploma in Software Engineering (3 years)<br>
-Feel free to reach out if you're interested in collaborating on projects or if you have any question.<br>
+Feel free to reach out if you're interested in collaborating on projects or if you have any question.<br><br>
 **Contact** 📫
 Email: umairsarfaraz829@gmail.com<br>
 LinkedIn:umairtherealdev<br>
